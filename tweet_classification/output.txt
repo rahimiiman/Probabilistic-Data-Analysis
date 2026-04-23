@@ -1,0 +1,50 @@
+I love this movie so much --> normal
+This is a wonderful day --> normal
+You are so kind and helpful --> normal
+I had a great time at the park --> normal
+The weather is really nice today --> normal
+I enjoy learning machine learning --> normal
+This food tastes amazing --> normal
+She is a very smart student --> normal
+We are going to the beach tomorrow --> normal
+I feel happy and motivated --> normal
+I hate this stupid system --> hate/offensive
+You are so annoying sometimes --> normal
+This is the worst experience ever --> normal
+Nobody likes your attitude --> hate/offensive
+Shut up and leave me alone --> hate/offensive
+I can't stand this nonsense --> hate/offensive
+This is completely ridiculous --> hate/offensive
+You are really bad at this --> hate/offensive
+Stop talking nonsense all the time --> normal
+I dislike this behavior a lot --> normal
+The cat is sleeping on the sofa --> normal
+I bought a new laptop yesterday --> normal
+We are studying transformers in NLP --> normal
+The train arrives at 5 PM --> normal
+Python is a great programming language --> normal
+I am reading a good book --> normal
+He is playing football outside --> normal
+She works in a big company --> normal
+The project deadline is next week --> normal
+We cooked pasta for dinner --> normal
+You are useless and dumb --> hate/offensive
+I wish you would disappear --> normal
+This is garbage content --> normal
+Nobody cares about your opinion --> normal
+You are the worst person here --> normal
+Go away and stop talking --> hate/offensive
+This is completely stupid --> hate/offensive
+I hate everything about this --> hate/offensive
+You are so pathetic sometimes --> hate/offensive
+What a useless idea --> hate/offensive
+Artificial intelligence is fascinating --> normal
+Neural networks are powerful models --> normal
+We are training a classifier today --> normal
+Transformers changed NLP completely --> normal
+Deep learning requires a lot of data --> normal
+Machine learning is widely used --> normal
+I enjoy coding in Python --> normal
+Data science is an interesting field --> normal
+We are analyzing text data --> normal
+Models need good training data --> normal
